@@ -1,15 +1,15 @@
 title:            Huskycode 
 description:      Lets be Agile together 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://huskycode.github.com
-disqus_shortname: 
+url:              #http://huskycode.github.com
+disqus_shortname: huskycode
 
 # Owner/author information
 owner:
-  name:           Varokas Panusuwan
-  avatar:         bio-photo.jpg
-  bio:            "Describe your self."
-  email:          varokas@panusuwan.com
+  name:           HuskyCoders 
+  avatar:         bio-photo.png
+  bio:            "A group of people having fun practicing Agile"
+  email:          info@huskycode.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
   facebook:       
@@ -37,16 +37,18 @@ bing_verify:
 links:
   - title: About
     url: /about/
+  - title: Projects
+    url: /projects/
   - title: Posts
     url: /posts/
-  - title: Theme Setup
-    url: /theme-setup/
-  - title: Made Mistakes
-    url: http://mademistakes.com
-    external: true
+#  - title: Theme Setup
+#    url: /theme-setup/
+#  - title: Made Mistakes
+#    url: http://mademistakes.com
+#    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    America/Los_Angeles
 future:      true
 pygments:    true
 markdown:    kramdown

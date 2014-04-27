@@ -1,30 +1,21 @@
 ---
 layout: page
 permalink: /about/
-title: About the Theme
-tagline: Minimal Mistakes, a Jekyll Theme
-tags: [about, Jekyll, theme, responsive]
-modified: 9-9-2013
+title: About Huskycode 
+tagline:  
+tags: [about, huskycode]
+modified: 2014-04-27
 comments: true
 image:
-  feature: texture-feature-02.jpg
-  credit: Texture Lovers
-  creditlink: http://texturelovers.com
+  #feature: texture-feature-02.jpg
+  #credit: Texture Lovers
+  #creditlink: http://texturelovers.com
 ---
 
-Jekyll is pretty rad and figured releasing a cleaned up version of [my site](http://mademistakes.com)[^1] as a theme for others to hack and build on would be fun. So here be that theme --- I call it **Minimal Mistakes**, a responsive Jekyll theme with large featured images and solid typography. 
+Huskycode is a community project spin off from [Agile66](http://www.facebook.com/groups/agile66) to help developers meet online and practice Agile in safe settings. Member contributes 2-3 hours a week to the project. We aim to practice all aspects of Agile, from Sprint Planning, Lean Startup to Continuous Delivery. Mostly what the team feels like trying and regulary do retrospective on the outcome. It is customary for our projects to present our findings in Agile Thailand and Agile Tour Bangkok. You can catch us at those events.
 
-## Minimal Mistakes is all about:
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments --- content first.
-* Large feature images for posts and pages.
-* Author sidebar to pimp your bio, photo[^2], and social media links.
-* Simple and clear permalink structure *(ie: domain.com/category/post-title)*
+For more info. See the [Projects](/projects/) page.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
 
-[^1]: Since open sourcing this theme I have released a couple other Jekyll themes. My website [Made Mistakes](http://mademistakes.com) is currently using a modified version of my [So Simple Theme](http://mmistakes.github.io/so-simple-theme/).
-
-[^2]: Fancy avatars provided by [Brandon Mathis](http://brandonmathis.com/projects/fancy-avatars/demo/) under a [Creative Commons Attribution 3.0 License](http://creativecommons.org/licenses/by/3.0/).
+Huskycode is founded by [Varokas](http://www.facebook.com/varokas). Send him a quick chat or any of the huskycode members if you are interested in helping out or have any questions about us. Please take a look at the project page and see if there is anything that interest you.
