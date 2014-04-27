@@ -1,19 +1,19 @@
-title:            Site Title
-description:      Describe your website.
+title:            Huskycode 
+description:      Lets be Agile together 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              http://localhost:4000
+url:              http://huskycode.github.com
 disqus_shortname: 
 
 # Owner/author information
 owner:
-  name:           Your Name
+  name:           Varokas Panusuwan
   avatar:         bio-photo.jpg
   bio:            "Describe your self."
-  email:          your@email.com
+  email:          varokas@panusuwan.com
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter:        
   facebook:       
-  github:         
+  github: http://www.github.com/huskycode         
   stackoverflow: 
   linkedin:       
   instagram:      
