@@ -12,7 +12,7 @@ Paragraph 1
 
 <div>
 Test div block
-<div>
+</div>
 
 Paragraph 2
 
