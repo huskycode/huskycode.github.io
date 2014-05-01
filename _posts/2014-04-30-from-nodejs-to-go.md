@@ -9,7 +9,7 @@ description: A quick look back on converting a nodejs project to Go
 By Varokas
 
 ### No more love for nodejs?
-It is no secret that I have been playing with the idea of porting [foresee](http://www.huskycode.com/foresee) project
+It is no secret that I have been playing with the idea of porting [foresee](http://www.github.com/huskycode/foresee) project
 to be in Go. so here's my quick feedback on the work so far.
 
 I always think that Go would radically replace what nodejs is used for today. It is a simple 
