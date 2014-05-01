@@ -62,5 +62,5 @@ Namely these things in brief
 * Language : With no inheritance and lambda I feel that this will restrict the size of program Go could be. More on that later. 
 * Package Management : or lack thereof. Every language now has one (even PHP!). Go has none.
 
-Turns out on of the big communication library I want to use: socket.io is not working very well for me. And it is not
+Turns out one of the socket communication library I want to use: socket.io is not working very well for me. And it is not
 readily testable as well. Before I jump in too deep to figure that out. Lets launch foresee in nodejs for now.
