@@ -1,7 +1,7 @@
 title:            Huskycode 
 description:      Lets be Agile together 
 # Your site's domain goes here. Leave localhost server or blank when working locally.
-url:              #http://huskycode.github.com
+url:              http://huskycode.github.com
 disqus_shortname: huskycode
 
 # Owner/author information
